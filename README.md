@@ -13,7 +13,7 @@
    * List the name of all vehicles that can have more than 15 characters.
    * Add new character in database.
    * Update characters from given sql data.
-   * Populate the database table for characters.
+   * Populate all the characters from database table.
 
 ## Links
 
